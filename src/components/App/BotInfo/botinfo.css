@@ -1,0 +1,43 @@
+.bot-info-component__wrap {
+  width: 100%;
+  height: 100%;
+  padding: 10px 70px;
+  box-sizing: border-box;
+}
+.bot-info-component__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.bot-info-component__country-info {
+  font-size: 1em;
+
+}
+.bot-info-component__name-info {
+  color: #00BCD4;
+  font-weight: normal;
+}
+.bot-info-component__campaigns {
+  margin-top: 40px;
+}
+.bot-info-component__campaigns-title {
+  font-weight: bold;
+}
+.bot-info-component__scripts {
+  margin-top: 60px;
+}
+.bot-info-component__scripts-title  {
+  font-weight: bold;
+}
+.bot-info-component__list-script-item {
+  border-bottom: solid 1px #EDEDED !important;
+}
+.bot-info-component__greeting-title {
+  font-weight: bold;
+}
+.bot-info-component__script-answer-question {
+  color: #00BCD4;
+}
+.bot-info-component__script-answer-question span {
+  color: #686868;
+}

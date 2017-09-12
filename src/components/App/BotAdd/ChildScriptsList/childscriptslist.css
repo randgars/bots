@@ -1,0 +1,7 @@
+.child-scripts-list__list-item {
+  font-weight: bold !important;
+  color: #00BCD4 !important;
+}
+.child-scripts-list__list-item svg {
+  color: #00BCD4 !important;
+}

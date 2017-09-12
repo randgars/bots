@@ -1,0 +1,20 @@
+.phone-form__block-time {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.phone-form__input-time {
+    
+}
+.phone-form__block-time__start-time {
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.phone-form__block-time__end-time {
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

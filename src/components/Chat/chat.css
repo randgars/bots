@@ -1,0 +1,24 @@
+.chat-component {
+  width: 400px;
+  border: 1px solid #00BCD4;
+  box-sizing: border-box;
+}
+.chat-component__messages-area {
+  height: 400px;
+  padding: 20px;
+  box-sizing: border-box;
+  overflow-y: auto; 
+}
+.chat-component__input-panel {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.chat-component_display-chat_true {
+  display: block;
+}
+.chat-component_display-chat_false {
+  display: none;
+}

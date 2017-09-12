@@ -1,0 +1,24 @@
+.campaign-component {
+  padding: 40px 0 20px 0;
+  box-sizing: border-box;
+}
+.campaign-wrap {
+  width: 50%;
+  min-width: 600px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+.campaign-component__title {
+  text-align: center;
+  color: #00BCD4;
+}
+.campaign-component__save-btn-block {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.campaign-component__button {
+  margin: 12px 0;
+  width: 150px
+}

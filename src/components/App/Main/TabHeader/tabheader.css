@@ -1,0 +1,5 @@
+.tab-header-component__header-panel {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

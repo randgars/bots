@@ -1,0 +1,13 @@
+{
+    "title": "My bots",
+    "addBtnName": "Add bot",
+    "searchHint": "Search for bot..",
+    "filterBtns": [
+        "All",
+        "Approved",
+        "Pending your approval",
+        "Rejected",
+        "Pending admin approval",
+        "Drafts"
+    ]
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "id": "0",
+        "name": "Bot 1",
+        "status": "APPROVED"
+    },
+    {
+        "id": "1",
+        "name": "Bot 2",
+        "status": "REJECTED"
+    },
+    {
+        "id": "2",
+        "name": "Bot 3",
+        "status": "PENDING_USER_APPROVAL"
+    },
+    {
+        "id": "3",
+        "name": "Bot 4",
+        "status": "PENDING_APPROVAL"
+    },
+    {
+        "id": "4",
+        "name": "Bot 5",
+        "status": "DRAFT"
+    }
+]

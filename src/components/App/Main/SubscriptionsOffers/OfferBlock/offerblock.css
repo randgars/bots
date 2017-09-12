@@ -1,0 +1,15 @@
+.offer-block-component {
+}
+.offer-block-component__duration {
+  margin: 0;
+  border-bottom: 1px #F0F0F0 solid;
+  padding-bottom: 20px;
+}
+.offer-block-component__facility {
+  border-bottom: 1px #F0F0F0 solid;
+  margin: 0;
+  padding: 20px 0;
+}
+.offer-block-component__price {
+  font-weight: bold;
+}

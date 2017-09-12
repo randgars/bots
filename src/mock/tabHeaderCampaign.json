@@ -1,0 +1,13 @@
+{
+    "title": "My Campaigns",
+    "addBtnName": "Add campaign",
+    "searchHint": "Search for campaign..",
+    "filterBtns": [
+        "All",
+        "Approved",
+        "Pending your approval",
+        "Rejected",
+        "Pending admin approval",
+        "Drafts"
+    ]
+}

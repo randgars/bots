@@ -1,0 +1,56 @@
+.botadd-component {
+  padding: 40px 0 20px 0;
+  box-sizing: border-box;
+  width: 50%;
+  min-width: 600px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+.botadd-component__title {
+  text-align: center;
+  color: #00BCD4;
+}
+.botadd-component__script-block {
+  margin: 40px 0;
+  border-bottom: solid 1px #00BCD4;
+  padding-bottom: 20px;
+}
+.botadd-component__script-title {
+  font-weight: bold;
+}
+.botadd-component__script-buttons {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.botadd-component__script-btn {
+  width: 50px;
+  min-width: 50px !important;
+  margin-left: 10px !important;
+}
+.botadd-component__button {
+  margin: 12px 0;
+  width: 150px
+}
+.botadd-component__save-btn-block {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.botadd-component__button_file-input {
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  opacity: 0;
+}
+.add-script-dialog__title-template {
+  margin: 0;
+  color: #212121;
+  font-size: 1.3em;
+}

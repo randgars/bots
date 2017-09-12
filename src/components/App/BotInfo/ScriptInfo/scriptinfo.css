@@ -1,0 +1,14 @@
+.bot-info-component__list-script-item svg {
+  color: #00BCD4 !important;
+}
+.link-hidden {
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  opacity: 0;
+  z-index: 999;
+}

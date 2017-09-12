@@ -1,0 +1,9 @@
+{
+  "generator-react-webpack": {
+    "appName": "bot",
+    "style": "css",
+    "cssmodules": false,
+    "postcss": false,
+    "generatedWithVersion": 4
+  }
+}

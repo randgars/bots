@@ -1,0 +1,15 @@
+.main-component {
+  box-sizing: border-box;
+  padding: 20px 40px;
+}
+.link {
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  opacity: 0;
+  z-index: 999;
+}

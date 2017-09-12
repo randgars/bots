@@ -1,0 +1,40 @@
+.admin-message-component {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  margin-bottom: 15px;
+}
+.admin-message-component__info {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  padding: 2px 0;
+}
+.admin-message-component__info__name {
+  margin: 0;
+  font-weight: bold;
+  font-size: 0.8em;
+}
+.admin-message-component__info_time {
+  margin: 0;
+  font-size: 0.8em;
+  color: #858585;
+  display: flex;
+  align-items: center;
+}
+.admin-message-component__wrap {
+  width: 80%;
+  background-color: #00BCD4;
+  border-radius: 5px;
+  padding: 7px 14px;
+  box-sizing: border-box;
+}
+.admin-message-component__wrap__message {
+  color: #fff;
+  margin: 0;
+}
+.admin-message-component__dialog__title {
+  font-size: '1em';
+  text-align: 'center';
+}

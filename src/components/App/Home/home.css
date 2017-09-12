@@ -1,0 +1,23 @@
+.home-component {
+  padding: 20px 50px;
+}
+.home-component p {
+  font-weight: normal;
+  font-size: 4em;
+}
+.home-component p {
+  font-size: 0.8em;
+  font-style: italic;
+}
+.home-component p:last-child {
+  font-size: 1em;
+  font-style: normal;
+  margin-top: 50px;
+}
+.home-component p:last-child a {
+  color: #337AB7;
+  text-decoration: none;
+}
+.home-component p:last-child a:hover {
+  text-decoration: underline;
+}

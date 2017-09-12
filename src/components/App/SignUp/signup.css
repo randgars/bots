@@ -1,0 +1,12 @@
+.signup-component {
+  
+}
+.signup-component a {
+  padding-right: 25px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.1em;
+}
+.signup-component a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,36 @@
+.user-message-component {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-bottom: 15px;
+}
+.user-message-component__info {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  padding: 2px 0;
+}
+.user-message-component__info__name {
+  margin: 0;
+  font-weight: bold;
+  font-size: 0.8em;
+}
+.user-message-component__info_time {
+  margin: 0;
+  font-size: 0.8em;
+  color: #858585;
+  display: flex;
+  align-items: center;
+}
+.user-message-component__wrap {
+  width: 80%;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  padding: 7px 14px;
+  box-sizing: border-box;
+}
+.user-message-component__wrap__message {
+  color: #000;
+  margin: 0;
+}

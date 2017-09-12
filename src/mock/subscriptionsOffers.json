@@ -1,0 +1,23 @@
+[
+    {
+        "duration": "1 Week Plan",
+        "firstFacility": "Bot publishing",
+        "secondFacility": "Script generation",
+        "offerProce": "$ 2.99",
+        "button": "Sign up"
+    },
+    {
+        "duration": "1 Mounth Plan",
+        "firstFacility": "Bot publishing",
+        "secondFacility": "Script generation",
+        "offerProce": "$ 24.99",
+        "button": "Sign up"
+    },
+    {
+        "duration": "1 Year Plan",
+        "firstFacility": "Bot publishing",
+        "secondFacility": "Script generation",
+        "offerProce": "$ 249.99",
+        "button": "Sign up"
+    }
+]

@@ -1,0 +1,23 @@
+.campaign-info-component {
+  padding: 20px 40px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+}
+.campaign-info-component__bot-list-block {
+  width: 50%;
+}
+.campaign-info-component__info-block {
+  width: 45%;
+}
+.campaign-info-component__campaign-name {
+  font-size: 1.7em;
+  font-weight: normal;
+  color: #00BCD4
+}
+.campaign-info-component__list-title {
+  font-size: 1em !important;
+}
+.campaign-info-component__add-new-bot-btn {
+  margin-top: 20px;
+}
